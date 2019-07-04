@@ -8,3 +8,30 @@
   float: right;
   margin: 0 5px 0 0;
 }
+h1 {
+  font-style: italic;
+  font-weight: bold;
+
+}
+.btn-peppers {
+  background-color: #D51418;
+  color: #FFFFFF;
+  font-weight: bold;
+  padding: 10px 15px
+}
+.btn-peppers:hover {
+background-color: #ED097F;
+color: #FFFFFF
+}
+.text1 {
+  font-size: 1.75em;
+}
+.ig-rel {
+  position: relative;
+}
+.ig-abs{
+  position: absolute;
+  bottom: 10px;
+  left: 25px;
+
+}
